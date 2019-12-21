@@ -12,3 +12,17 @@ Put your story/status in `pesan.txt` and run `encrypt_msg.py`. It will outputtin
 
 ## (Bonus) Step 3
 If you want just 1 or 2 or some of your friend to understand your aspiration that you just encrypted, share `decrypt_msg.py` to your friend along with `key.txt`. Ask your friends to save your string of your story/status as a text in a file named `pesan_terenkripsi.txt`. And the last, ask them to run `decrypt_msg.py`. Your decrypted story/status will be shown to them.
+
+
+## (Another Bonus) Illustration
+
+
+![generate encrypted tweet](encrypt.png)
+
+![Tweet it in encrypted string](tweet.png)
+
+![put the key](key.png)
+
+![put the encrypted tweet](encrypted.png)
+
+![Decrpt the tweet](decrypt.png)
